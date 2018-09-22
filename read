@@ -15,6 +15,14 @@ requirements: 1.raspberry pi with os loaded (im using rpi-jessie)
 
 3.create a account in remote it and connect your pi https://www.remot3.it/web/remot3-it-connect-for-raspberry-pi.html
 
+sudo apt-get install weavedconnectd
+
+sudo weavedinstaller
+
+
+
+
+
 4.install apache server in rpi 
 sudo apt-get install apache2 -y
 
